@@ -1,0 +1,1 @@
+This example demonstrates a common error in ActionScript 3 event handling: attempting to access properties of event.target before verifying that it is not null.  The bug.as file shows the erroneous code. The bugSolution.as file provides the corrected code with a null check.
